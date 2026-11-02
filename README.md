@@ -2,7 +2,7 @@
 
 A web app for listing internship and practical-work (kerja praktik) positions, and for managing applications from submission to review. Students browse positions and apply online; admins review applicants and update their status.
 
-> A prototype built to explore an internship application flow. [VERIFY wording]
+> A prototype built to explore an internship application flow.
 
 ## Features
 
@@ -19,15 +19,15 @@ A web app for listing internship and practical-work (kerja praktik) positions, a
 - Review applicants and update application status
 - Add interview and test notes
 - Manage user accounts
-- Manage position listings (partially implemented) [VERIFY]
+- Manage position listings (partially implemented)
 - Email notification to the applicant when their status changes
 
 ## Tech stack
 
 - **Backend:** Laravel 12 (PHP 8.2+), Sanctum
 - **Frontend:** React 19, TypeScript, Inertia.js, Tailwind CSS 4, Vite, Radix UI, Headless UI, Lucide
-- **Database:** [VERIFY: MySQL, SQLite, or other]
-- Built on the Laravel React starter kit [VERIFY]
+- **Database:** MySQL
+- Built on the Laravel React starter kit
 
 ## Getting started
 
@@ -53,7 +53,6 @@ A prototype, not a production system. Known limitations:
 
 - Some pages are still unfinished (position create and edit forms, account settings pages)
 - The FAQ page contains placeholder text
-- [Remove items here as you fix them]
 
 ## Author
 
